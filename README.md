@@ -1,2 +1,2 @@
-# COMPAS_matlab
-Post-processing scrips to analyse COMPAS data using MATLAB.
+# COMPAS-matlab
+Post-processing scrips to analyse COMPAS (https://compas.science/) data using MATLAB.
